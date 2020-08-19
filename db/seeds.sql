@@ -1,7 +1,7 @@
-INSERT INTO burgers (burger_name, devoured) VALUES ("Cheese Burger", false);   
-INSERT INTO burgers (burger_name, devoured) VALUES ("Bacon Burger", false);   
-INSERT INTO burgers (burger_name, devoured) VALUES ("Chicken Burger", false);   
-INSERT INTO burgers (burger_name, devoured) VALUES ("Vegan Burger", false);
+INSERT INTO burger (burger_name, devoured) VALUES ("Cheese Burger", false);   
+INSERT INTO burger (burger_name, devoured) VALUES ("Bacon Burger", false);   
+INSERT INTO burger (burger_name, devoured) VALUES ("Chicken Burger", false);   
+INSERT INTO burger (burger_name, devoured) VALUES ("Vegan Burger", false);
 
-SELECT * FROM burgers;
-UPDATE burgers SET devoured = 1 WHERE id = 1;
+SELECT * FROM burger;
+UPDATE burger SET devoured = 1 WHERE id = 1;
