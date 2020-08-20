@@ -11,7 +11,7 @@
 
 * This app will store every burger in a database, whether devoured or not.
 
-![pic1](./public/assets/img/pic1.jpg) 
+![pic1](./public/assets/img/pic1.JPG) 
 
 ## Installation
 Run:
