@@ -21,4 +21,4 @@ Run:
 ## Repository
 
 - [Project Repo](https://github.com/tarazin/burger)
-- [Heroku](https://morning-sierra-26300.herokuapp.com/)
+- [Heroku](https://tarazin-burger-app.herokuapp.com/)
